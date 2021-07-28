@@ -5,6 +5,7 @@
 </div>
 
 - Kumoh National Institude of Technology (2016.03 ~ 2021.02)
+- NAVER (2021.07 ~ )
 
 [![Lee-Jungyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Jungyu)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Jungyu&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
