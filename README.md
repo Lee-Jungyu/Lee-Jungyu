@@ -4,7 +4,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Jungyu%2Fhit-counter"/></a> 
 </div>
 
-- **🎓Kumoh National Institude of Technology (2016.03 ~ 2021.02)**
+- **🎓Kumoh National Institute of Technology (2016.03 ~ 2021.02)**
 - **🏢NAVER (2021.07 ~ )**
 
 [![Lee-Jungyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Jungyu)](https://github.com/anuraghazra/github-readme-stats)
